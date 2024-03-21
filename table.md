@@ -1,4 +1,4 @@
-| ID       | Name                                                                 | Schedule State | Owner         |
+| ID       | Name                                                                 | Estimated HRS | Owner         |
 |----------|----------------------------------------------------------------------|----------------|---------------|
 | US66707. | Resource Allocation and Technology Selection                         |                | Oliver Ellison|
 | US66719. | Mapping of excel columns to api response                             |                | Lukas S Hoover|
